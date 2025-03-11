@@ -6,7 +6,7 @@ Approach: We import the given dataset into Power BI and begin with cleaning and 
 
 Tools/Technologies Used: In this project , we use Power BI as the primary tool to gather relevant insights from the given data. We use data cleaning and data using Power Query and use Power BI to develop interactive and customizable visualizations in the form of charts/graphs to create a sophisticated dashboard.
 
-Insights: The dashboard contains key metrics such as the Average Age of Survey Takers, Total Number of Survey Takers,Average Ratings which showcases Happiness with Work-Life Balance and Happiness with Salary.It also contains various visualizations to represent factors such as Survey Takers by Country, Average Salary by Job Title, Favorite Programming Lanhguage, Difficulty to break into the Data Field.
+Insights: The dashboard contains key metrics such as the Average Age of Survey Takers, Total Number of Survey Takers,Average Ratings which showcases Happiness with Work-Life Balance and Happiness with Salary.It also contains various visualizations to represent factors such as Survey Takers by Country, Average Salary by Job Title, Favorite Programming Language, Difficulty to break into the Data Field.
 
 Result: The end-result is a high-end interactive dashboard developed using Power BI to showcase the insights with a sophisticated design which helps the stakeholders to understand the insights easier and also interact with the dashboard to additionally filter the data as per requirement.
 
